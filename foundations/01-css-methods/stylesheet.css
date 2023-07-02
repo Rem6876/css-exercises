@@ -1,0 +1,9 @@
+div {
+    width: auto;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: larger;
+    font-weight: 900;
+    word-spacing: 5px;
+}
